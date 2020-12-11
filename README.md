@@ -25,3 +25,13 @@ public static void Method1(int x)
 }
 ```
 
+## Wishlist
+
+* Anonymous Functions
+* Case Statement upgrade
+* Function Overloading
+* Modules
+* Classes
+* Removal of header files
+* Good meta programming
+
